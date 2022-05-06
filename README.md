@@ -26,10 +26,16 @@ The dataset includes information about buildings sold in NYC, such as location a
 
 - BUILDING CLASS AT PRESENT and BUILDING CLASS AT TIME OF SALE: The type of building at various points in time.
 
+The dataset can be accessed here: https://www.kaggle.com/datasets/new-york-city/nyc-property-sales
+
 Files: 
 
   - src: 
     - nyc1-eda.ipynb: Notebook where data is analyzed
     - nyc2-model.ipynb: Notebook on which model experiments were made
     - nyc3-sql-queries.ipynb: Notebook where SQL queries are saved
-    - 
+
+   - requirements.txt
+
+
+Made by sengulkaraderili@gmail.com
